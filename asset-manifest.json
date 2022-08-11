@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/Rakhi-Celibration/static/css/main.7ee18ee8.css",
+    "main.js": "/Rakhi-Celibration/static/js/main.1a080e70.js",
+    "static/js/787.48a50bf3.chunk.js": "/Rakhi-Celibration/static/js/787.48a50bf3.chunk.js",
+    "static/media/1.mp3": "/Rakhi-Celibration/static/media/1.b034e3dfa8f0725bb2c3.mp3",
+    "static/media/background.jpg": "/Rakhi-Celibration/static/media/background.f7183f35ea887a52489d.jpg",
+    "static/media/2.jpg": "/Rakhi-Celibration/static/media/2.09f64c2dcd7ad3910d39.jpg",
+    "index.html": "/Rakhi-Celibration/index.html",
+    "main.7ee18ee8.css.map": "/Rakhi-Celibration/static/css/main.7ee18ee8.css.map",
+    "main.1a080e70.js.map": "/Rakhi-Celibration/static/js/main.1a080e70.js.map",
+    "787.48a50bf3.chunk.js.map": "/Rakhi-Celibration/static/js/787.48a50bf3.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7ee18ee8.css",
+    "static/js/main.1a080e70.js"
+  ]
+}
